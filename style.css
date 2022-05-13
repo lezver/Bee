@@ -109,7 +109,7 @@ nav {
     color: #000;
 }
 .main-center-left-box li {
-    background: url(/img/li.gif) no-repeat 0 50%;
+    background: url(li.gif) no-repeat 0 50%;
     list-style: none;
     border-bottom: 1px solid #E9E9E9;
 }
